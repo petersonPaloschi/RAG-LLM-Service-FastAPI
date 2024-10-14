@@ -1,0 +1,6 @@
+*.txt
+*.pdf
+*.csv
+*.xlsx
+*.cpython-312
+**/__pycache__/
